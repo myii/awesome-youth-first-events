@@ -31,7 +31,6 @@ This list contains awesome Youth (educational related) events happening in the U
 - [Home Schooling online programmes](#home-schooling-online-programmes)
 - [Unsorted](#unsorted)
 - [Follow](#follow)
-- [Contributing](#contributing)
 
 <!-- CONTENT -->
 
