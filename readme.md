@@ -92,32 +92,6 @@ This list contains awesome Youth (educational related) events happening in the U
 
 - https://www.pfida.com/
 
-- https://www.kingstrust.org.uk/about-us/where-we-work/england/south-london-centre - Mentoring and financial assistance towards Employment and Business ideas.
-
-- https://sectors.kingstrust.org.uk/
-
-- https://www.youthemployment.org.uk/
-
-- https://makers.tech/learn/apprenticeships - They have government funded apprenticeship opportunities.
-
-- https://www.creativementornetwork.org/bright-sparks
-
-- https://www.speakersforschools.org/
-
-- https://www.theforage.com/
-
-- https://www.brightnetwork.co.uk/
-
-- https://muslamicmakers.com/how-we-built-mentorpreneur-book-time-with-muslim-mentors/
-
-- https://www.eventbrite.co.uk/o/muslamic-makers-9877713350
-
-- https://www.deendevelopers.com/
-
-- https://codeinplace.stanford.edu/ - Free course.
-
-- https://uk.generation.org/london/aws-restart
-
 - https://m.youtube.com/@IFGuru
 
 - https://www.islamicfinanceguru.com/home
@@ -227,8 +201,6 @@ This list contains awesome Youth (educational related) events happening in the U
 - https://docs.google.com/forms/d/e/1FAIpQLSfvYGrwd2QWcY9czoY3VLb2gbda_kYzXg7dVO4GehjuyjZyFg/viewform
 
 - https://www.ox.ac.uk/admissions/undergraduate/increasing-access/events-calendar
-
-- https://www.chch.ox.ac.uk/college/outreach/discover-computer-science
 
 - https://www.teensinspired.co.uk/wellbeing
 
