@@ -70,6 +70,8 @@ This list contains awesome Youth (educational related) events happening in the U
 
 - https://www.speakersforschools.org/
 
+- https://www.speakersforschools.org/work-experience-opportunities/
+
 - https://www.theforage.com/
 
 - https://www.brightnetwork.co.uk/
@@ -90,11 +92,7 @@ This list contains awesome Youth (educational related) events happening in the U
 
 - https://www.islamicfinanceguru.com/home
 
-- https://www.pfida.com/
-
-- https://m.youtube.com/@IFGuru
-
-- https://www.islamicfinanceguru.com/home
+- https://www.islamicfinanceguru.com/articles/personal-finance/scholarships-grants-and-bursaries-for-muslim-uk-students
 
 - https://www.pfida.com/
 
@@ -140,8 +138,6 @@ This list contains awesome Youth (educational related) events happening in the U
 
 - https://zoom.us/webinar/register/WN_rAHRjCGuT7K8KIIqM7KruQ#/registration - Free math lesson.
 
-- https://www.speakersforschools.org/work-experience-opportunities/
-
 - https://www.kingstrust.org.uk/how-we-can-help/support-starting-business - Youth starting Business Support and Funding.
 
 - https://linkin.bio/kings_trust/ - Kings Trust Support.
@@ -151,10 +147,6 @@ This list contains awesome Youth (educational related) events happening in the U
 - https://www.catch-22.org.uk/ - They offer a mentoring programme, and provide a bursary of £300-600 for a course, which doesn't have to be payed back as it's a gov initiative: but please confirm again.
 
 - https://www.cs.ox.ac.uk/discoverCS/DiscoverComputerScienceindex.html
-
-- https://www.islamicfinanceguru.com/home
-
-- https://www.islamicfinanceguru.com/articles/personal-finance/scholarships-grants-and-bursaries-for-muslim-uk-students
 
 - https://girlswhocode.com/
 
@@ -203,8 +195,6 @@ This list contains awesome Youth (educational related) events happening in the U
 - https://www.teensinspired.co.uk/wellbeing
 
 - https://codefirstgirls.com
-
-- https://www.speakersforschools.org/
 
 - https://grantfinder.co.uk/
 
