@@ -20,6 +20,8 @@ A curated list of Youth First Events in the UK.
 
 This list contains awesome Youth (educational related) events happening in the UK.
 
+This service is to inform and direct you towards the vast range of **free expert services**, which have already been established, to support you and your child towards further education and employment opportunities.
+
 </div>
 
 <!-- TOC -->
@@ -29,6 +31,18 @@ This list contains awesome Youth (educational related) events happening in the U
 ## Contents
 
 - [Home Schooling online programmes](#home-schooling-online-programmes)
+
+- [Homeschooling advice](#homeschooling-advice)
+- [Outreach programmes](#outreach-programmes)
+- [Work experience](#work-experience)
+- [Apprenticeships](#apprenticeships)
+- [Scholarships](#scholarships)
+- [Adult courses](#adult-courses)
+- [Educational events](#educational-events)
+- [Resources](#resources)
+- [Mentoring](#mentoring)
+- [Networking](#networking)
+
 - [Unsorted](#unsorted)
 - [Follow](#follow)
 
@@ -45,6 +59,55 @@ This list contains awesome Youth (educational related) events happening in the U
 - [Let's Learn Arabic](https://www.letslearnarabic.net/)
 
 - [Smallpeice Trust | Timetable](https://smallpeicetrust.org.uk/timetable)
+
+---
+
+## Homeschooling advice
+
+---
+
+## Outreach programmes
+
+
+---
+
+## Work experience
+
+
+---
+
+## Apprenticeships
+
+
+---
+
+## Scholarships
+
+
+---
+
+## Adult courses
+
+
+---
+
+## Educational events
+
+
+---
+
+## Resources
+
+
+---
+
+## Mentoring
+
+
+---
+
+## Networking
+
 
 ---
 
