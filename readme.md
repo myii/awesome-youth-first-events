@@ -66,7 +66,7 @@ This list contains awesome Youth (educational related) events happening in the U
 
 - https://makers.tech/learn/apprenticeships - They have government funded apprenticeship opportunities.
 
-- https://www.creativementornetwork.org/bright-sparks
+- https://www.creativementornetwork.org/amazon-prime-video-bright-sparks
 
 - https://www.speakersforschools.org/
 
@@ -82,7 +82,7 @@ This list contains awesome Youth (educational related) events happening in the U
 
 - https://codeinplace.stanford.edu/ - Free course.
 
-- https://uk.generation.org/london/aws-restart
+- https://uk.generation.org/find-a-career/
 
 - https://www.meetup.com/London-DevOps/ - London DevOps | Meetup.
 
@@ -167,8 +167,6 @@ This list contains awesome Youth (educational related) events happening in the U
 - https://www.gov.uk/extra-money-pay-university/university-and-college-hardship-funds
 
 - https://insightoutreach.org/
-
-- https://www.youthemployment.org.uk/how-to-get-into-tech-via-free-bootcamps-14th-may-london-digital-jobs-and-skills-hub/
 
 - https://www.founders4schools.org.uk/young-people/
 
