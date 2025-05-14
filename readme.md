@@ -117,7 +117,7 @@ This service is to inform and direct you towards the vast range of **free expert
 
 - https://pathwayctm.com/ - Pathway ctm gives 1-1 free mentoring and apprenticeship support online for free; they provide 1-1 mentoring and job application assistance.
 
-- https://linktr.ee/pathwayctm_ - Pathway ctm Instagram; then click the `1:2:1 APPRENTICESHIP APPLICATION SUPPORT` link to make a booking.
+- https://linktr.ee/pathwayctm_/ - Pathway ctm Instagram; then click the `1:2:1 APPRENTICESHIP APPLICATION SUPPORT` link to make a booking.
 
 - https://stemettes.org/ - For girls, online and in person free events and mentoring programmes, they pay for the girls to gain a certificate such as Python, Agile & Cisco.
 
