@@ -113,157 +113,155 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 ## Unsorted
 
-- [Smallpeice Trust](https://smallpeicetrust.org.uk/) - They also have a bursary section to assist with the courses.
+- [Smallpeice Trust](https://smallpeicetrust.org.uk/) – Offers STEM programmes and bursaries to assist with course access.
 
-- [Pathway CTM](https://pathwayctm.com/) - Pathway CTM offers free 1-to-1 mentoring and apprenticeship support online. They provide mentoring and job application assistance.
+- [Pathway CTM](https://pathwayctm.com/) – Provides free 1-to-1 mentoring, apprenticeship support, and job application help.
 
-- [Pathway CTM Instagram](https://linktr.ee/pathwayctm_/) - Click the `1:2:1 APPRENTICESHIP APPLICATION SUPPORT` link to make a booking.
+- [Pathway CTM Instagram](https://linktr.ee/pathwayctm_/) – Book 1-to-1 apprenticeship support via the `1:2:1 APPRENTICESHIP APPLICATION SUPPORT` link.
 
-- [STEMettes](https://stemettes.org/) - For girls; free online and in-person events and mentoring programmes. They sponsor certificates such as Python, Agile, & Cisco.
+- [STEMettes](https://stemettes.org/) – Hosts free online and in-person events for girls, including mentoring and certification in Python, Agile, Cisco, and more.
 
-- [Prince's Trust South London Centre](https://www.kingstrust.org.uk/about-us/where-we-work/england/south-london-centre) - Mentoring and financial assistance towards employment and business ideas.
+- [Prince’s Trust South London Centre](https://www.kingstrust.org.uk/about-us/where-we-work/england/south-london-centre) – Offers mentoring and financial support for employment and business ideas.
 
-- [Prince's Trust Sectors](https://sectors.kingstrust.org.uk/)
+- [Prince’s Trust Sectors](https://sectors.kingstrust.org.uk/) – Explore industry-specific support from the Prince’s Trust.
 
-- [Youth Employment UK](https://www.youthemployment.org.uk/)
+- [Youth Employment UK](https://www.youthemployment.org.uk/) – Offers employability support and resources for young people.
 
-- [Makers Apprenticeships](https://makers.tech/learn/apprenticeships) - Government-funded apprenticeship opportunities.
+- [Makers Apprenticeships](https://makers.tech/learn/apprenticeships) – Government-funded tech apprenticeship opportunities.
 
-- [Amazon Prime Video Bright Sparks - Creative Mentor Network](https://www.creativementornetwork.org/amazon-prime-video-bright-sparks)
+- [Amazon Bright Sparks](https://www.creativementornetwork.org/amazon-prime-video-bright-sparks) – A creative mentoring initiative with Amazon Prime Video.
 
-- [Speakers for Schools](https://www.speakersforschools.org/)
+- [Speakers for Schools](https://www.speakersforschools.org/) – Delivers talks, workshops, and career experiences for students.
 
-- [Speakers for Schools Work Experience](https://www.speakersforschools.org/work-experience-opportunities/)
+- [Speakers for Schools: Work Experience](https://www.speakersforschools.org/work-experience-opportunities/) – Offers virtual and in-person work experience opportunities.
 
-- [The Forage](https://www.theforage.com/)
+- [The Forage](https://www.theforage.com/) – Access free virtual work experience programmes by top companies.
 
-- [Bright Network](https://www.brightnetwork.co.uk/)
+- [Bright Network](https://www.brightnetwork.co.uk/) – Provides internships, graduate jobs, and networking events for students.
 
-- [Muslamic Makers - Mentorpreneur](https://muslamicmakers.com/how-we-built-mentorpreneur-book-time-with-muslim-mentors/)
+- [Muslamic Makers – Mentorpreneur](https://muslamicmakers.com/how-we-built-mentorpreneur-book-time-with-muslim-mentors/) – Book time with Muslim mentors in various industries.
 
-- [Muslamic Makers on Eventbrite](https://www.eventbrite.co.uk/o/muslamic-makers-9877713350)
+- [Muslamic Makers on Eventbrite](https://www.eventbrite.co.uk/o/muslamic-makers-9877713350) – View and join upcoming events.
 
-- [Deen Developers](https://www.deendevelopers.com/)
+- [Deen Developers](https://www.deendevelopers.com/) – A Muslim developer community offering support, mentorship, and resources.
 
-- [Code in Place (Stanford)](https://codeinplace.stanford.edu/) - Free course.
+- [Code in Place (Stanford)](https://codeinplace.stanford.edu/) – Free introductory programming course taught by Stanford instructors.
 
-- [Generation UK - Find a Career](https://uk.generation.org/find-a-career/)
+- [Generation UK](https://uk.generation.org/find-a-career/) – Offers training and career guidance for young people entering the workforce.
 
-- [London DevOps Meetup](https://www.meetup.com/London-DevOps/) - London DevOps | Meetup.
+- [London DevOps Meetup](https://www.meetup.com/London-DevOps/) – Attend local DevOps events and tech meetups.
 
-- [IFGuru YouTube](https://m.youtube.com/@IFGuru)
+- [IFGuru YouTube](https://m.youtube.com/@IFGuru) – Videos on Islamic finance and entrepreneurship.
 
-- [Islamic Finance Guru](https://www.islamicfinanceguru.com/home)
+- [Islamic Finance Guru](https://www.islamicfinanceguru.com/home) – Guidance and resources on personal finance, investing, and career paths.
 
-- [Islamic Finance Guru - Scholarships Article](https://www.islamicfinanceguru.com/articles/personal-finance/scholarships-grants-and-bursaries-for-muslim-uk-students)
+- [Scholarships for Muslim Students](https://www.islamicfinanceguru.com/articles/personal-finance/scholarships-grants-and-bursaries-for-muslim-uk-students) – A guide to scholarships, grants, and bursaries for UK-based Muslim students.
 
-- [Pfida](https://www.pfida.com/)
+- [Pfida](https://www.pfida.com/) – Ethical home financing provider based on Islamic principles.
 
-- [Brightside Mentoring](https://brightsidementoring.org/)
+- [Brightside Mentoring](https://brightsidementoring.org/) – Offers online mentoring to help students explore careers and education paths.
 
-- [Young Professionals UK](https://young-professionals.uk/)
+- [Young Professionals UK](https://young-professionals.uk/) – Connect with employers and access work experience and apprenticeship opportunities.
 
-- [CENTURY Tech for Parents](https://www.century.tech/parents/)
+- [CENTURY Tech for Parents](https://www.century.tech/parents/) – Tools and resources to support children’s learning using AI-driven platforms.
 
-- [Multiply Employer Schemes](https://find-employer-schemes.education.gov.uk/schemes/multiply)
+- [Multiply Employer Schemes](https://find-employer-schemes.education.gov.uk/schemes/multiply) – Government initiative to improve numeracy for adults.
 
-- [Imperial College Schools Outreach](https://www.imperial.ac.uk/be-inspired/schools-outreach/)
+- [Imperial College Outreach](https://www.imperial.ac.uk/be-inspired/schools-outreach/) – Programmes and events for school students interested in STEM.
 
-- [King's Maths School Outreach](https://www.kingsmathsschool.com/outreach) - Some of the programmes are available to join online.
+- [King's Maths School Outreach](https://www.kingsmathsschool.com/outreach) – Offers online and in-person enrichment programmes.
 
-- [It All Adds Up - Oxford Maths Outreach](https://www.maths.ox.ac.uk/outreach/it-all-adds)
+- [It All Adds Up – Oxford](https://www.maths.ox.ac.uk/outreach/it-all-adds) – Events for female and non-binary students interested in mathematics.
 
-- [Girls into Electronics - UKESF](https://www.ukesf.org/what-we-do/girls-into-electronics/) - Events available and a free electronics kit.
+- [Girls into Electronics – UKESF](https://www.ukesf.org/what-we-do/girls-into-electronics/) – Apply for events and a free electronics kit.
 
-- [CyberFirst Resources - NCSC](https://www.ncsc.gov.uk/cyberfirst/resources) - Free online cybersecurity courses.
+- [CyberFirst – NCSC](https://www.ncsc.gov.uk/cyberfirst/resources) – Free online courses in cybersecurity.
 
-- [Isaac Physics](https://isaacphysics.org/)
+- [Isaac Physics](https://isaacphysics.org/) – Problem-solving platform for A-level and GCSE students.
 
-- [Isaac Computer Science](https://isaaccomputerscience.org/)
+- [Isaac Computer Science](https://isaaccomputerscience.org/) – Free learning platform for A-level Computer Science.
 
-- [Oxford Challenge Club - CS](https://www.cs.ox.ac.uk/challengeclub/)
+- [Oxford Challenge Club](https://www.cs.ox.ac.uk/challengeclub/) – CS outreach for high-achieving students.
 
-- [Discover Computer Science - Oxford](https://www.cs.ox.ac.uk/DiscoverComputerScience/DiscoverComputerScienceindex.html)
+- [Discover Computer Science – Oxford](https://www.cs.ox.ac.uk/DiscoverComputerScience/DiscoverComputerScienceindex.html)
 
-- [Code First Girls Degree](https://codefirstgirls.com/courses/cfgdegree/)
+- [Code First Girls: CFGdegree](https://codefirstgirls.com/courses/cfgdegree/) – Free coding courses for women in the UK.
 
-- [Sutton Trust Programmes](https://www.suttontrust.com/our-programmes/)
+- [Sutton Trust Programmes](https://www.suttontrust.com/our-programmes/) – Support for social mobility through education.
 
-- [Become an Apprentice - GOV.UK](https://www.gov.uk/become-apprentice)
+- [Become an Apprentice – GOV.UK](https://www.gov.uk/become-apprentice) – Learn how to start an apprenticeship.
 
-- [Apply for an Apprenticeship - GOV.UK](https://www.gov.uk/apply-apprenticeship)
+- [Apply for an Apprenticeship – GOV.UK](https://www.gov.uk/apply-apprenticeship)
 
 - [Apprenticeships.gov.uk](https://www.apprenticeships.gov.uk/)
 
-- [Deloitte Early Careers](https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html)
+- [Deloitte Early Careers](https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html) – Apprenticeships, internships, and graduate roles.
 
-- [CREST Awards](https://www.crestawards.org/) - You can design your own project and apply for certification.
+- [CREST Awards](https://www.crestawards.org/) – Design and complete your own STEM project to earn an award.
 
-- [Free Maths Lesson - Zoom Registration](https://zoom.us/webinar/register/WN_rAHRjCGuT7K8KIIqM7KruQ#/registration)
+- [Free Maths Webinar](https://zoom.us/webinar/register/WN_rAHRjCGuT7K8KIIqM7KruQ#/registration)
 
-- [Start a Business - Prince's Trust](https://www.kingstrust.org.uk/how-we-can-help/support-starting-business) - Youth business support and funding.
+- [Start a Business – Prince’s Trust](https://www.kingstrust.org.uk/how-we-can-help/support-starting-business) – Support and funding for young entrepreneurs.
 
-- [Prince's Trust Support](https://linkin.bio/kings_trust/)
+- [Prince’s Trust – LinkTree](https://linkin.bio/kings_trust/)
 
-- [Creative Dimension - Fortnum & Mason Patisserie Workshop](https://www.thecreativedimension.org/workshop/summer-2025-masterclass-in-patisserie-skills-with-fortnum-mason/summer-2025-masterclass-in-patisserie-skills-with-fortnum-mason/) - Free craft workshops.
+- [Creative Dimension – Patisserie Workshop](https://www.thecreativedimension.org/workshop/summer-2025-masterclass-in-patisserie-skills-with-fortnum-mason/summer-2025-masterclass-in-patisserie-skills-with-fortnum-mason/) – Free creative workshops for young people.
 
-- [Catch-22](https://www.catch-22.org.uk/) - Mentoring programme and £300–£600 bursary available.
+- [Catch-22](https://www.catch-22.org.uk/) – Offers mentoring and a bursary (£300–£600) for courses. No repayment required; confirm eligibility.
 
-- [Discover Computer Science - Oxford CS](https://www.cs.ox.ac.uk/discoverCS/DiscoverComputerScienceindex.html)
+- [Girls Who Code](https://girlswhocode.com/) – Global nonprofit providing coding education for girls.
 
-- [Girls Who Code](https://girlswhocode.com/)
+- [Centre of the Cell](https://www.centreofthecell.org/) – Interactive science centre offering workshops and events.
 
-- [Centre of the Cell](https://www.centreofthecell.org/)
+- [Inspiring Instagram Post](https://www.instagram.com/p/CtY1AHjMMDc)
 
-- [Inspiration on Instagram](https://www.instagram.com/p/CtY1AHjMMDc)
+- [Pathways to Medicine – Imperial](https://www.imperial.ac.uk/be-inspired/schools-outreach/secondary-schools/stem-programmes/pathways-to-medicine/)
 
-- [Pathways to Medicine - Imperial College](https://www.imperial.ac.uk/be-inspired/schools-outreach/secondary-schools/stem-programmes/pathways-to-medicine/)
+- [University Hardship Funds – GOV.UK](https://www.gov.uk/extra-money-pay-university/university-and-college-hardship-funds)
 
-- [University and College Hardship Funds - GOV.UK](https://www.gov.uk/extra-money-pay-university/university-and-college-hardship-funds)
+- [Insight Outreach](https://insightoutreach.org/) – Support for high-achieving students from underrepresented backgrounds.
 
-- [Insight Outreach](https://insightoutreach.org/)
+- [Founders4Schools – For Students](https://www.founders4schools.org.uk/young-people/)
 
-- [Founders4Schools - Young People](https://www.founders4schools.org.uk/young-people/)
-
-- [Founders4Schools - Jobs](https://www.founders4schools.org.uk/jobs/)
+- [Founders4Schools – Job Board](https://www.founders4schools.org.uk/jobs/)
 
 - [Oxford Online Maths Club](https://www.maths.ox.ac.uk/outreach/oxford-online-maths-club)
 
-- [MathsFest - Oxford](https://mathsfest.web.ox.ac.uk/home)
+- [MathsFest – Oxford](https://mathsfest.web.ox.ac.uk/home)
 
-- [PROMYS Europe](https://www.promys-europe.org) - A challenging six-week summer maths programme for students aged 16+ at the University of Oxford.
+- [PROMYS Europe](https://www.promys-europe.org) – Six-week summer maths programme at Oxford for students aged 16+.
 
-- [Amazon Prime Video Career Tour - Springpod](https://www.springpod.com/virtual-work-experience/amazon-prime-video-career-tour/WEXP-00404?queryID=6d5755f173d69fd480a0b923c4cea2fc&pos=10&fromUrl=%2Fvirtual-work-experience%2Fsearch)
+- [Amazon Career Tour – Springpod](https://www.springpod.com/virtual-work-experience/amazon-prime-video-career-tour/WEXP-00404?queryID=6d5755f173d69fd480a0b923c4cea2fc&pos=10&fromUrl=%2Fvirtual-work-experience%2Fsearch)
 
-- [Discover Computer Science - Christ Church, Oxford](https://www.chch.ox.ac.uk/college/outreach/discover-computer-science)
+- [Discover CS – Christ Church, Oxford](https://www.chch.ox.ac.uk/college/outreach/discover-computer-science)
 
-- [Qimam Fellowship](https://www.qimam.com/en/)
+- [Qimam Fellowship](https://www.qimam.com/en/) – Leadership development programme for high-potential university students.
 
-- [Oxford Undergraduate Open Days](https://www.cs.ox.ac.uk/admissions/undergraduate/open_days/opendays.html)
+- [Oxford Open Days – CS Department](https://www.cs.ox.ac.uk/admissions/undergraduate/open_days/opendays.html)
 
-- [Empower Oxford Programme - Science Oxford](https://scienceoxford.com/schools/)
+- [Science Oxford Schools](https://scienceoxford.com/schools/) – Science outreach for schools in Oxfordshire.
 
-- [Empower Oxford - Physics Department](https://www.physics.ox.ac.uk/engage/schools/secondary-schools/projects-and-mentoring/empower-oxford) - Free workshops in handcrafts.
+- [Empower Oxford – Physics Department](https://www.physics.ox.ac.uk/engage/schools/secondary-schools/projects-and-mentoring/empower-oxford) – Free creative and craft-based STEM workshops.
 
-- [Creative Dimension Workshops](https://www.thecreativedimension.org/workshops/)
+- [Creative Dimension Workshops](https://www.thecreativedimension.org/workshops/) – Hands-on workshops in creative industries.
 
 - [Imperial College Outreach Instagram](https://www.instagram.com/icoutreach)
 
-- [Amazing Apprenticeships Links](https://linktr.ee/amazingapprenticeships)
+- [Amazing Apprenticeships](https://linktr.ee/amazingapprenticeships)
 
-- [Google Form: Workshop Registration](https://docs.google.com/forms/d/e/1FAIpQLSfvYGrwd2QWcY9czoY3VLb2gbda_kYzXg7dVO4GehjuyjZyFg/viewform)
+- [Workshop Registration Form (Google)](https://docs.google.com/forms/d/e/1FAIpQLSfvYGrwd2QWcY9czoY3VLb2gbda_kYzXg7dVO4GehjuyjZyFg/viewform)
 
 - [Oxford Events Calendar](https://www.ox.ac.uk/admissions/undergraduate/increasing-access/events-calendar)
 
-- [Teens Inspired - Wellbeing](https://www.teensinspired.co.uk/wellbeing)
+- [Teens Inspired – Wellbeing](https://www.teensinspired.co.uk/wellbeing) – Wellbeing resources and workshops for teens.
 
-- [Code First Girls](https://codefirstgirls.com)
+- [Code First Girls](https://codefirstgirls.com) – Tech training and job placement for women.
 
-- [GrantFinder](https://grantfinder.co.uk/)
+- [GrantFinder](https://grantfinder.co.uk/) – Find grants and funding opportunities in the UK.
 
-- [Girls Into Coding](https://www.girlsintocoding.com/)
+- [Girls Into Coding](https://www.girlsintocoding.com/) – Workshops and mentorship in STEM for girls.
 
-- [Neon Futures](https://neonfutures.org.uk/)
+- [Neon Futures](https://neonfutures.org.uk/) – Connects young people with real engineering experiences.
 
 ---
 
