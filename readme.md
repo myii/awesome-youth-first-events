@@ -18,9 +18,9 @@ A curated list of Youth First Events in the UK.
 
 <!-- description -->
 
-This list contains awesome Youth (educational related) events happening in the UK.
+This list contains awesome youth (education-related) events happening in the UK.
 
-This service is to inform and direct you towards the vast range of **free expert services**, which have already been established, to support you and your child towards further education and employment opportunities.
+This service is intended to inform and direct you towards the vast range of **free expert services**, which have already been established to support you and your child in pursuing further education and employment opportunities.
 
 </div>
 
@@ -115,19 +115,19 @@ This service is to inform and direct you towards the vast range of **free expert
 
 - https://smallpeicetrust.org.uk/ - They also have a bursary section to assist with the courses.
 
-- https://pathwayctm.com/ - Pathway ctm gives 1-1 free mentoring and apprenticeship support online for free; they provide 1-1 mentoring and job application assistance.
+- https://pathwayctm.com/ - Pathway CTM offers free 1-to-1 mentoring and apprenticeship support online. They provide mentoring and job application assistance.
 
-- https://linktr.ee/pathwayctm_/ - Pathway ctm Instagram; then click the `1:2:1 APPRENTICESHIP APPLICATION SUPPORT` link to make a booking.
+- https://linktr.ee/pathwayctm_/ - Pathway CTM Instagram; click the `1:2:1 APPRENTICESHIP APPLICATION SUPPORT` link to make a booking.
 
-- https://stemettes.org/ - For girls, online and in person free events and mentoring programmes, they pay for the girls to gain a certificate such as Python, Agile & Cisco.
+- https://stemettes.org/ - For girls; free online and in-person events and mentoring programmes. They sponsor certificates such as Python, Agile, & Cisco.
 
-- https://www.kingstrust.org.uk/about-us/where-we-work/england/south-london-centre - Mentoring and financial assistance towards Employment and Business ideas.
+- https://www.kingstrust.org.uk/about-us/where-we-work/england/south-london-centre - Mentoring and financial assistance towards employment and business ideas.
 
 - https://sectors.kingstrust.org.uk/
 
 - https://www.youthemployment.org.uk/
 
-- https://makers.tech/learn/apprenticeships - They have government funded apprenticeship opportunities.
+- https://makers.tech/learn/apprenticeships - Government-funded apprenticeship opportunities.
 
 - https://www.creativementornetwork.org/amazon-prime-video-bright-sparks
 
@@ -173,9 +173,9 @@ This service is to inform and direct you towards the vast range of **free expert
 
 - https://www.maths.ox.ac.uk/outreach/it-all-adds
 
-- https://www.ukesf.org/what-we-do/girls-into-electronics/ - They have events and you can apply for a free electronics kit.
+- https://www.ukesf.org/what-we-do/girls-into-electronics/ - Events available and a free electronics kit.
 
-- https://www.ncsc.gov.uk/cyberfirst/resources - Free online cyber security courses.
+- https://www.ncsc.gov.uk/cyberfirst/resources - Free online cybersecurity courses.
 
 - https://isaacphysics.org/
 
@@ -197,17 +197,17 @@ This service is to inform and direct you towards the vast range of **free expert
 
 - https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html
 
-- https://www.crestawards.org/ - For crest awards you can design your own project and then make an application for a small fee for certifications made by Crest Awards, to show case what your child has achieved.
+- https://www.crestawards.org/ - For CREST Awards, you can design your own project and apply for a small fee to receive certification showcasing your child's achievement.
 
-- https://zoom.us/webinar/register/WN_rAHRjCGuT7K8KIIqM7KruQ#/registration - Free math lesson.
+- https://zoom.us/webinar/register/WN_rAHRjCGuT7K8KIIqM7KruQ#/registration - Free maths lesson.
 
-- https://www.kingstrust.org.uk/how-we-can-help/support-starting-business - Youth starting Business Support and Funding.
+- https://www.kingstrust.org.uk/how-we-can-help/support-starting-business - Youth business support and funding.
 
 - https://linkin.bio/kings_trust/ - Kings Trust Support.
 
-- https://www.thecreativedimension.org/workshop/summer-2025-masterclass-in-patisserie-skills-with-fortnum-mason/summer-2025-masterclass-in-patisserie-skills-with-fortnum-mason/ - Free Craft Workshops.
+- https://www.thecreativedimension.org/workshop/summer-2025-masterclass-in-patisserie-skills-with-fortnum-mason/summer-2025-masterclass-in-patisserie-skills-with-fortnum-mason/ - Free craft workshops.
 
-- https://www.catch-22.org.uk/ - They offer a mentoring programme, and provide a bursary of £300-600 for a course, which doesn't have to be payed back as it's a gov initiative: but please confirm again.
+- https://www.catch-22.org.uk/ - They offer a mentoring programme and provide a bursary of £300–£600 for a course. This does not have to be repaid as it's a government initiative (please confirm independently).
 
 - https://www.cs.ox.ac.uk/discoverCS/DiscoverComputerScienceindex.html
 
@@ -231,7 +231,7 @@ This service is to inform and direct you towards the vast range of **free expert
 
 - https://mathsfest.web.ox.ac.uk/home
 
-- https://www.promys-europe.org - PROMYS Europe, a challenging six-week residential mathematics summer programme at the University of Oxford, UK, is designed to encourage mathematically ambitious students aged 16+ to explore the creative world of mathematics. Participants will tackle fundamental mathematical questions within a richly stimulating and supportive community of fellow first-year students, returning students, undergraduate counsellors, faculty, and visiting mathematicians.
+- https://www.promys-europe.org - PROMYS Europe: a challenging six-week residential mathematics summer programme at the University of Oxford, UK, designed to encourage mathematically ambitious students aged 16+ to explore the creative world of mathematics.
 
 - https://www.springpod.com/virtual-work-experience/amazon-prime-video-career-tour/WEXP-00404?queryID=6d5755f173d69fd480a0b923c4cea2fc&pos=10&fromUrl=%2Fvirtual-work-experience%2Fsearch
 
@@ -243,7 +243,7 @@ This service is to inform and direct you towards the vast range of **free expert
 
 - https://scienceoxford.com/schools/ - Empower Oxford Programme.
 
-- https://www.physics.ox.ac.uk/engage/schools/secondary-schools/projects-and-mentoring/empower-oxford - Free Workshops in Hand Crafts Opportunities.
+- https://www.physics.ox.ac.uk/engage/schools/secondary-schools/projects-and-mentoring/empower-oxford - Free workshops in handcrafts.
 
 - https://www.thecreativedimension.org/workshops/
 
