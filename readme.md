@@ -30,9 +30,9 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 ## Contents
 
-- [Home Schooling online programmes](#home-schooling-online-programmes)
+- [Home-schooling online programmes](#home-schooling-online-programmes)
 
-- [Homeschooling advice](#homeschooling-advice)
+- [Home-schooling advice](#home-schooling-advice)
 - [Outreach programmes](#outreach-programmes)
 - [Work experience](#work-experience)
 - [Apprenticeships](#apprenticeships)
@@ -50,7 +50,7 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 ---
 
-## Home Schooling online programmes
+## Home-schooling online programmes
 
 - [Ayaat Learning](https://ayaatlearning.com/)
 
@@ -62,7 +62,7 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 ---
 
-## Homeschooling advice
+## Home-schooling advice
 
 ---
 
