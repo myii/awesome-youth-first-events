@@ -88,7 +88,7 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Pathway CTM](https://pathwayctm.com/) - Connects students with employers through events, internships, and mentoring.
 
-- [Pathway CTM Instagram](https://linktr.ee/pathwayctm_)
+- [Pathway CTM Linktree](https://linktr.ee/pathwayctm_) - Provides a range of resources, including the 1:2:1 Apprenticeship Application Support link, which offers tailored, one-on-one assistance to help students with their apprenticeship applications.
 
 - [Brightside Mentoring](https://brightsidementoring.org/) - Matches young people with mentors to support their personal and academic growth.
 
